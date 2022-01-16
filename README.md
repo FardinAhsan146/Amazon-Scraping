@@ -2,4 +2,4 @@
 
 Making a webscraper for a friends business.
 
-Documentation and steps on how to run the project coming soon. 
+Basically comparing prices of perfumes in amazon.ae to prices from a previous dataset. 
